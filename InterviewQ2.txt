@@ -1,0 +1,11 @@
+ Q2)Name the property used to specify the background color of an element.
+
+Ans-
+
+The background-color property is used to specify the background color of the element. For example:
+
+<style>    
+h2,p{    
+    background-color: #b0d4de;    
+}    
+</style>  

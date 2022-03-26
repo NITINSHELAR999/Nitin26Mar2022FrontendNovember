@@ -1,0 +1,5 @@
+Q1)What is the use of % unit?
+
+Ans-
+
+It is used for defining percentage values.

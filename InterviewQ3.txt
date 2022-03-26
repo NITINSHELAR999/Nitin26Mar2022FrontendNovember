@@ -1,0 +1,12 @@
+Q3) Name the property for controlling the image repetition of the background.
+
+Ans-
+
+The background-repeat property repeats the background image horizontally and vertically. Some images are repeated only horizontally or vertically.
+
+<style>    
+body {    
+background-image: url("paper1.gif");    
+margin-left:100px;    
+}    
+</style> 
